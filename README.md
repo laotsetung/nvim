@@ -1,15 +1,14 @@
 # nvim
 NeoVim config
 
-Com :
-  .fonts -> CaskaydiaCoveNerdFont
+/.fonts -> CaskaydiaCoveNerdFont
 
-  Usando Lazy Plugin Manager
-    com:
-        LSP (Mason)
-        Telescope
-        Treesitter
-        e outros.
+Usando Lazy Plugin Manager
+
+LSP (Mason).
+Telescope.
+Treesitter.
+e outros.
 
 TODO 
-  AutoComplete e Snippets
+-AutoComplete e Snippets
